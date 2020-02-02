@@ -1,0 +1,40 @@
+__label__shopping sainsburys to you 0637
+__label__shopping ao retail limited
+__label__food co-op group food
+__label__health roc private clinic
+__label__general a & y locksmiths
+__label__shopping b & q 1066
+__label__food pabulum catering
+__label__foods currys online
+__label__travel lul ticket machine
+__label__shopping argos retail group
+__label__shopping builder depot ltd
+__label__travel tfl oyst photocard
+__label__kids www twinsuk co uk
+__label__general makro self service enf
+__label__general sds seminars limited
+__label__shopping amazon uk retail amazo
+__label__travel tfl road charge
+__label__shopping amz amazon co uk +44 2
+__label__shopping tesco store 2296
+__label__shopping argos direct
+__label__shopping brilliant bins
+__label__shopping builder depot n11
+__label__food currys
+__label__shopping tesco stores 6440
+__label__shopping sainsburys sacat 4572
+__label__shopping sainsburys loc (4216)
+__label__shopping tesco stores 2296
+__label__food domino's
+__label__travel premier inn
+__label__shopping wickes
+__label__shopping br3620 jewson tool
+__label__shopping asda george com leeds
+__label__shopping www argos co uk
+__label__sports top golf watford
+__label__entertainment amfbowling co uk
+__label__kids www gojumpin com
+__label__general bt pay by phone
+__label__shopping b & q 1067
+__label__shopping b & m retail
+__label__general www odonovan co uk
